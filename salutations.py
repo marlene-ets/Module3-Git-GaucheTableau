@@ -2,3 +2,7 @@
 
 
 print('Bonjour à toi !')
+
+nom = input("Quel est votre nom? ")
+
+print(nom)
