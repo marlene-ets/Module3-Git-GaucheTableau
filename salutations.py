@@ -1,5 +1,6 @@
 """Ce programme va nous servir à saluer une personne"""
 
+print('Ce programme est un projet collectif')
 
 #print('Bonjour à toi !')
 
