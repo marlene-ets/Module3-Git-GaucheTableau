@@ -7,7 +7,7 @@ nom = input("Quel est votre nom? ")
 
 print(nom)
 
-nas = input('Quel est ton numéro d''assurance sociale?')
+nas = input(f'Quel est ton numéro d''assurance sociale, {nom}?')
 
 if len(nas) != 9:
     print('Le NAS fourni est invalide.')
