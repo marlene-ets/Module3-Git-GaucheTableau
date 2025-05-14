@@ -10,3 +10,10 @@ elif preference == 'non' :
 nom = input("Quel est votre nom? ")
 
 print(nom)
+
+nas = input(f'Quel est ton numéro d''assurance sociale, {nom}?')
+
+if len(nas) != 9:
+    print('Le NAS fourni est invalide.')
+else:
+    print('Merci')
