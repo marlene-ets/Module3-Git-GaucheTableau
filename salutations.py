@@ -6,4 +6,4 @@ print('Bonjour à toi !')
 ville = input('ou habitez vous?')
 
 
-print(ville)
+print("Vous habitez dans cette ville: ", ville)
