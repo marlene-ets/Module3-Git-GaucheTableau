@@ -2,3 +2,5 @@
 
 
 print('Bonjour à toi !')
+
+prenom = input('Quel est ton/votre prénom ? Nous vous écoutons : ')
